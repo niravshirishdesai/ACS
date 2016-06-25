@@ -1,0 +1,2 @@
+autonomy-payload/ap_lib:autonomy-payload/ap_logging:autonomy-payload/ap_master:autonomy-payload/ap_mission_planning:autonomy-payload/ap_msgs:autonomy-payload/ap_network_bridge:autonomy-payload/ap_path_planning:autonomy-payload/ap_perception:autonomy-payload/ap_safety_monitor:autonomy-payload/ap_srvs:autonomy-payload/ap_tasks:autonomy-payload/ap_test:autopilot_bridge
+-DCATKIN_DEVEL_PREFIX=/home/osboxes/ACS/acs_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/osboxes/ACS/acs_ros_ws/install -G Unix Makefiles

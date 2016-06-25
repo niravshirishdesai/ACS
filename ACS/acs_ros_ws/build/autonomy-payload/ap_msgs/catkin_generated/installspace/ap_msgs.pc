@@ -1,0 +1,8 @@
+prefix=/home/osboxes/ACS/acs_ros_ws/install
+
+Name: ap_msgs
+Description: Description of ap_msgs
+Version: 0.0.0
+Cflags: -I/home/osboxes/ACS/acs_ros_ws/install/include
+Libs: -L/home/osboxes/ACS/acs_ros_ws/install/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime autopilot_bridge

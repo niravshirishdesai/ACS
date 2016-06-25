@@ -1,0 +1,8 @@
+prefix=/home/osboxes/ACS/acs_ros_ws/devel
+
+Name: ap_path_planning
+Description: Description of ap_path_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/osboxes/ACS/acs_ros_ws/devel/lib 
+Requires: message_runtime

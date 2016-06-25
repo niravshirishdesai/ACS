@@ -1,0 +1,2 @@
+set(ap_msgs_MESSAGE_FILES "msg/VehicleIntent.msg;msg/SwarmControlState.msg;msg/SwarmStateStamped.msg;msg/SwarmVehicleState.msg;msg/WaypointListStamped.msg;msg/BehaviorState.msg;msg/BehaviorGroupState.msg;msg/BehaviorGroupStateStamped.msg;msg/BehaviorParameters.msg;msg/FiringReport.msg;msg/FiringReportStamped.msg;msg/MsgStat.msg;msg/MsgStatList.msg;msg/RedVehicleState.msg;msg/RedSwarmStateStamped.msg;msg/SwarmSearchWaypoint.msg;msg/SwarmSearchWaypointList.msg")
+set(ap_msgs_SERVICE_FILES "")

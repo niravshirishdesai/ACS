@@ -1,0 +1,6 @@
+set(ap_mission_planning_SETUP_PY_VERSION "0.0.0")
+set(ap_mission_planning_SETUP_PY_SCRIPTS "")
+set(ap_mission_planning_SETUP_PY_PACKAGES "ap_mission_planning")
+set(ap_mission_planning_SETUP_PY_PACKAGE_DIRS "src/ap_mission_planning")
+set(ap_mission_planning_SETUP_PY_MODULES "")
+set(ap_mission_planning_SETUP_PY_MODULE_DIRS "")

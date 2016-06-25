@@ -1,0 +1,8 @@
+prefix=/home/osboxes/ACS/acs_ros_ws/install
+
+Name: ap_test
+Description: Description of ap_test
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/osboxes/ACS/acs_ros_ws/install/lib 
+Requires: 

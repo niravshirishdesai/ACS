@@ -1,0 +1,8 @@
+prefix=/home/osboxes/ACS/acs_ros_ws/devel
+
+Name: autopilot_bridge
+Description: Description of autopilot_bridge
+Version: 0.0.1
+Cflags: -I/home/osboxes/ACS/acs_ros_ws/devel/include
+Libs: -L/home/osboxes/ACS/acs_ros_ws/devel/lib 
+Requires: message_runtime

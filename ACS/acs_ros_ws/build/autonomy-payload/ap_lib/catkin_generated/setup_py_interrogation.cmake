@@ -1,0 +1,6 @@
+set(ap_lib_SETUP_PY_VERSION "0.0.0")
+set(ap_lib_SETUP_PY_SCRIPTS "")
+set(ap_lib_SETUP_PY_PACKAGES "ap_lib")
+set(ap_lib_SETUP_PY_PACKAGE_DIRS "src/ap_lib")
+set(ap_lib_SETUP_PY_MODULES "")
+set(ap_lib_SETUP_PY_MODULE_DIRS "")
